@@ -14,7 +14,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JanylsonFilho&show_icons=true&theme=gruvbox&include_all_commits=true&rank_icon=github)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JanylsonFilho&layout=compact&theme=gruvbox&hide=html,css,python,c,c++)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JanylsonFilho&layout=compact&theme=gruvbox&hide=html,css,python,c,c++,makefile,shell,cmake)
 
 ---
 
@@ -53,6 +53,7 @@ I am a Computer Science student approaching graduation with hands-on experience 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
@@ -61,6 +62,7 @@ I am a Computer Science student approaching graduation with hands-on experience 
 ## 📦 Featured Projects
 
 ### 🛠️ Academic & R&D
+- **CS Core Fundamentals**: Solid understanding of **Data Structures**, **Analysis of Algorithms**, and **Object-Oriented Programming (OOP)** applied to complex problem-solving.
 - **Mathematical Optimization (Pyomo)**: Developed linear programming models for operational research problems using Python.
 - **File System Simulator**: Designed and implemented a simulation of file allocation and management systems (Operating Systems).
 - **Graph Theory Algorithms**: Java & Clojure implementations of complex graph algorithms (e.g., Prim's, Connected Components).
