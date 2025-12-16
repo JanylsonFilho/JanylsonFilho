@@ -88,7 +88,3 @@ I am a Computer Science student approaching graduation with hands-on experience 
 
 - **Email**: janylsonfilho34@hotmail.com
 - **LinkedIn**: [in/janylsonfilho](https://www.linkedin.com/in/janylsonfilho)
-
----
-
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJanylsonFilho&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
